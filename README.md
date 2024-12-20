@@ -5,3 +5,5 @@ Ini readme
 #ini sih nyoba update baru yaa lewat folder utama
 
 #ini update lewat folder yang beda
+
+#ini coba pull dan push lewat folder utama
