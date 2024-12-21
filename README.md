@@ -7,3 +7,5 @@ Ini readme
 #ini update lewat folder yang beda
 
 #ini coba pull dan push lewat folder utama
+
+#ini koyim aku nyoba ngepush sih
