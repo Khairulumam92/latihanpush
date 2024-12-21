@@ -65,7 +65,7 @@ public class PatientPanel extends JPanel {
         patientTable = new JTable(patientService.getTableModel());
         patientTable.setRowHeight(25);
         patientTable.setShowGrid(true);
-        patientTable.setGridColor(Color.LIGHT_GRAY);
+        patientTable.setGridColor(Color.BLACK);
         patientTable.getTableHeader().setBackground(new Color(52, 73, 94));
         patientTable.getTableHeader().setForeground(Color.BLACK);
         patientTable.getTableHeader().setFont(new Font("Arial", Font.BOLD, 12));

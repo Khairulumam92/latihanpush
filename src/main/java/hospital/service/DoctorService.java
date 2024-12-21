@@ -1,4 +1,3 @@
-// hospital/service/DoctorService.java
 package hospital.service;
 
 import hospital.model.Doctor;
