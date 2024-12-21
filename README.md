@@ -21,28 +21,28 @@ Cowmam's Clinic Management System adalah aplikasi desktop yang dirancang untuk m
 
 ## 📁 Struktur Project
 
-LLATIHANPUSH/
-└── src/
-└── main/
-└── java/
-└── hospital/
-├── Main.java
-├── exception/
-│   └── ValidationException.java
-├── gui/
-│   ├── MainFrame.java
-│   ├── PatientPanel.java
-│   └── DoctorPanel.java
-├── model/
-│   ├── Patient.java
-│   └── Doctor.java
-├── service/
-│   ├── PatientService.java
-│   └── DoctorService.java
-└── test/
-├── PatientTest.java
-├── DoctorTest.java
-└── TestRunner.java
+LATIHANPUSH
+├── src
+│   └── main
+│       └── java
+│           └── hospital
+│               ├── Main.java
+│               ├── exception
+│               │   └── ValidationException.java
+│               ├── gui
+│               │   ├── MainFrame.java
+│               │   ├── PatientPanel.java
+│               │   └── DoctorPanel.java
+│               ├── model
+│               │   ├── Patient.java
+│               │   └── Doctor.java
+│               ├── service
+│               │   ├── PatientService.java
+│               │   └── DoctorService.java
+│               └── test
+│                   ├── PatientTest.java
+│                   ├── DoctorTest.java
+│                   └── TestRunner.java
 
 ## ⚙️ Fitur Utama
 1. **Manajemen Pasien**
